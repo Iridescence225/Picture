@@ -1,6 +1,8 @@
-{"name":"Emby-Icons-YYZ", 
+{
+"name":"Emby-Icons-YYZ", 
 "description":"By Iridescence", 
-"icons":[
+"icons":
+    [
     {"name":"Bax", "url":"https://raw.githubusercontent.com/Iridescence225/Picture/main/Emby-icons/Bax.jpg"},
     {"name":"Bx", "url":"https://raw.githubusercontent.com/Iridescence225/Picture/main/Emby-icons/Bx.png"},
     {"name":"Bxcl", "url":"https://raw.githubusercontent.com/Iridescence225/Picture/main/Emby-icons/Bxcl.jpg"},
@@ -34,6 +36,6 @@
     {"name":"Zxz", "url":"https://raw.githubusercontent.com/Iridescence225/Picture/main/Emby-icons/Zxz.jpg"},
     {"name":"Zzk", "url":"https://raw.githubusercontent.com/Iridescence225/Picture/main/Emby-icons/Zzk.jpg"},
     {"name":"nyyousj", "url":"https://raw.githubusercontent.com/Iridescence225/Picture/main/Emby-icons/nvyousj.jpg"},
-    {"name":"nvyousj2", "url":"https://raw.githubusercontent.com/Iridescence225/Picture/main/Emby-icons/nvyousj2.jpg"},
+    {"name":"nvyousj2", "url":"https://raw.githubusercontent.com/Iridescence225/Picture/main/Emby-icons/nvyousj2.jpg"}
         ]
 }
