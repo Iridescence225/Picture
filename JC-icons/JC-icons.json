@@ -1,4 +1,23 @@
 {"name":"Emby-YYZ",
 "description":"By Iridescence Sirius,私人Emby图标,图片为我最爱的小偶像-袁雨祯",
 "icons":[
+    {"name":"", "url":"https://github.com/Iridescence225/Picture/raw/main/JC-icons/.g"},
     {"name":"AMY", "url":"https://github.com/Iridescence225/Picture/raw/main/JC-icons/AMY.png"},
+    {"name":"Aifun", "url":"https://github.com/Iridescence225/Picture/raw/main/JC-icons/Aifun.png"},
+    {"name":"Anrun", "url":"https://github.com/Iridescence225/Picture/raw/main/JC-icons/AMY.jpg"},
+    {"name":"Anrun", "url":"https://github.com/Iridescence225/Picture/raw/main/JC-icons/Anrun.png"},
+    {"name":"Ash", "url":"https://github.com/Iridescence225/Picture/raw/main/JC-icons/Ash.jpg"},
+    {"name":"Ayucloud", "url":"https://github.com/Iridescence225/Picture/raw/main/JC-icons/Ayucloud.jpg"},
+    {"name":"DWQ", "url":"https://github.com/Iridescence225/Picture/raw/main/JC-icons/DWQ.png"},
+    {"name":"Dualnet", "url":"https://github.com/Iridescence225/Picture/raw/main/JC-icons/Dualnet.png"},
+    {"name":"GanBeiCloud", "url":"https://github.com/Iridescence225/Picture/raw/main/JC-icons/GanBeiCloud.jpg"},
+    {"name":"Milus", "url":"https://github.com/Iridescence225/Picture/raw/main/JC-icons/Milus.png"},
+    {"name":"Nyxen", "url":"https://github.com/Iridescence225/Picture/raw/main/JC-icons/Nyxen.jpg"},
+    {"name":"SNTP-Pre", "url":"https://github.com/Iridescence225/Picture/raw/main/JC-icons/SNTP-Pre.png"},
+    {"name":"To2", "url":"https://github.com/Iridescence225/Picture/raw/main/JC-icons/To2.jpg"},
+    {"name":"Yzt", "url":"https://github.com/Iridescence225/Picture/raw/main/JC-icons/Yzt.png"},
+    {"name":"klm", "url":"https://github.com/Iridescence225/Picture/raw/main/JC-icons/klm.png"},
+
+    {"name":"", "url":"https://github.com/Iridescence225/Picture/raw/main/JC-icons/.g"},
+ ]
+}
